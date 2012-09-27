@@ -1,11 +1,1 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/Users/bunty/.vim'
-let g:netrw_dirhist_2='/Volumes/Data/project/TUTORIAL/wikicamp/wiki'
-let g:netrw_dirhist_3='/Users/bunty/.ssh/config'
-let g:netrw_dirhist_4='/Volumes/Data/project/btstack/config'
-let g:netrw_dirhist_5='/Users/bunty/.ssh'
-let g:netrw_dirhist_6='/Volumes/Data/project/ecsoftware/checkout/hana/ecsoftware'
-let g:netrw_dirhist_7='/Users/bunty/.vim'
-let g:netrw_dirhist_8='/Users/bunty/.vim/bundle'
-let g:netrw_dirhist_9='/Volumes/Data/project/PYTHON'
+
